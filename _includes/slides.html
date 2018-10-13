@@ -3,7 +3,12 @@
 {% else %}
   {% assign gallery = page.gallery %}
 {% endif %}
-
+<a class="twitter-timeline"
+  href="https://twitter.com/TwitterDev"
+  data-width="300"
+  data-height="300">
+Tweets by @TwitterDev
+</a>
 {% if gallery.size == 2 %}
   {% assign gallery_layout = 'half' %}
 {% elsif gallery.size >= 3 %}
