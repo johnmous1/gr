@@ -25,6 +25,6 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
   {% include feature_col.html id="case-study" type="right" index=random %}
   
-  <a class="twitter-timeline" href="https://twitter.com/nikosaliagas?ref_src=twsrc%5Etfw">Tweets by nikosaliagas</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ <a class="twitter-timeline" href="https://twitter.com/p2016di?ref_src=twsrc%5Etfw">Tweets by p2016di</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div>
